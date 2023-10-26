@@ -1,0 +1,1 @@
+print("gruszka \nbanan \nkiwi")
